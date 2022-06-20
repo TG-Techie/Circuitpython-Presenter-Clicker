@@ -1,2 +1,8 @@
 # Circuitpython-Presenter-Clicker
-A bluetooth ID keyboard for clicking forwards and back while presenting
+A Circuitpython bluetooth ID keyboard for clicking forwards and back while presenting
+
+## Dependencies 
+Circuitpython modules:
+- adafruit_ble
+- adafruit_hid
+- neopixel
